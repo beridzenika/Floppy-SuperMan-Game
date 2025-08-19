@@ -1,0 +1,9 @@
+﻿  Pipe.cpp
+C:\Users\Nika\Desktop\c++\Raylib\Raylib-Bird-Game\Raylib-Bird-Game\Pipe.cpp(16,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nika\Desktop\c++\Raylib\Raylib-Bird-Game\Raylib-Bird-Game\Pipe.cpp(17,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nika\Desktop\c++\Raylib\Raylib-Bird-Game\Raylib-Bird-Game\Pipe.cpp(20,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nika\Desktop\c++\Raylib\Raylib-Bird-Game\Raylib-Bird-Game\Pipe.cpp(54,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nika\Desktop\c++\Raylib\Raylib-Bird-Game\Raylib-Bird-Game\Pipe.cpp(67,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nika\Desktop\c++\Raylib\Raylib-Bird-Game\Raylib-Bird-Game\Pipe.cpp(68,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nika\Desktop\c++\Raylib\Raylib-Bird-Game\Raylib-Bird-Game\Pipe.cpp(71,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Raylib-Bird-Game.vcxproj -> C:\Users\Nika\Desktop\c++\Raylib\Raylib-Bird-Game\x64\Debug\Raylib-Bird-Game.exe
